@@ -1,0 +1,157 @@
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe.config
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\clinic.mdb
+C:\Users\ADMIN\source\repos\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\ClinicReservation.mdb
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+C:\Users\Admin\Desktop\CLINIC_Reservation\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+C:\Users\User\Downloads\CLINIC_Reservation (1)-20251029T154312Z-1-001\CLINIC_Reservation (1)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+E:\SANDISK\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+C:\Users\Jen\OneDrive\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
+C:\Users\User\Desktop\CLINIC_Reservation (1) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
+C:\Users\pc\Desktop\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Status.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe.config
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.exe
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\bin\Debug\CLINIC_Reservation.pdb
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Appointment.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Dashboard.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.AdminMenu.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffAcc.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Form3.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.LogIn.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Properties.Resources.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Report.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.SignUp.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffDashboard.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.StaffMainForm.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.Status.resources
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.exe
+C:\Users\User\Downloads\CLINIC_Reservation (1) (2) (2)-20251107T122749Z-1-001\CLINIC_Reservation (1) (2) (2)\CLINIC_Reservation\obj\Debug\CLINIC_Reservation.pdb
